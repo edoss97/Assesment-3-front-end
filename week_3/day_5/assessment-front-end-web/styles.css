@@ -36,3 +36,12 @@ input {
 img {
 	max-width: 300px;
 }
+.myinfo {
+	background-color: aliceblue;
+}
+
+.button {
+	padding: 15px 32px;
+	background-color: yellow;
+
+}

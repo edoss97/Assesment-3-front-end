@@ -11,7 +11,7 @@ function handleSubmit(evt) {
 
 let form = document.querySelector('#contact');
 
-form.addEventListener('click', () => { alert('Submitted Successfully')})
+form.addEventListener('submit', () => { alert('Submitted Successfully')})
 
 let form1 = document.querySelector('#picture1');
 
